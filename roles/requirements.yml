@@ -1,0 +1,10 @@
+# from galaxy
+- src: robertdebock.postfix
+  name: postfix
+- src: robertdebock.bootstrap
+  name: bootstrap
+- src: robertdebock.core_dependencies
+  name: core_dependencies
+- src: geerlingguy.java
+  name: java
+
